@@ -20,10 +20,10 @@ export default {
     return {
       nowIndex: 0,
       slides: [
-        {src: require('../assets/jinzhengen.jpg')},
-        {src: require('../assets/qinliugan.jpg')},
-        {src: require('../assets/huanqiu.jpg')},
-        {src: require('../assets/aierlan.jpg')}
+        {src: require('../assets/lb/1.jpg')},
+        {src: require('../assets/lb/2.jpg')},
+        {src: require('../assets/lb/3.jpg')},
+        {src: require('../assets/lb/4.jpg')}
       ]
     }
   },

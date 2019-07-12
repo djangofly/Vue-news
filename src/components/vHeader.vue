@@ -1,7 +1,7 @@
 <template lang="html">
   <div class="header">
     <img src="../assets/identify.png" @click="clickIcon">
-    <span>爱新闻</span>
+    <span>漫画屋</span>
     <img src="../assets/search.png" @click="toSearch">
   </div>
 </template>
